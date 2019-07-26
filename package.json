@@ -1,0 +1,30 @@
+{
+  "name": "swiper-vue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel ./src/index.html --port 9998"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ddmy/swiper-vue.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ddmy/swiper-vue/issues"
+  },
+  "homepage": "https://github.com/ddmy/swiper-vue#readme",
+  "devDependencies": {
+    "@vue/component-compiler-utils": "^3.0.0",
+    "parcel-bundler": "^1.12.3",
+    "stylus": "^0.54.5",
+    "vue-template-compiler": "^2.6.10"
+  },
+  "dependencies": {
+    "swiper": "^4.5.0",
+    "vue": "^2.6.10",
+    "vue-hot-reload-api": "^2.3.3"
+  }
+}
